@@ -1,0 +1,95 @@
+.nav
+{
+    position: relative;
+    border: 2px solid grey;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    background-color: antiquewhite;
+}
+
+.logo
+{
+    display: inline-block;
+    width: 6%;
+    height: 6%;
+    border: 2px solid red;
+    margin-left: 2%;
+}
+
+.title
+{
+    position: absolute;
+    display: inline-block;
+    margin-left: 1%;
+
+}
+
+ul
+{
+    position: absolute;
+    display: inline-block;
+    margin-left: 70vw;
+
+}
+
+
+.master
+{
+    display: inline-block;
+    width: 40%;
+    margin-top: 2%;
+    margin-left: 1%;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border: 2px solid blue;
+    background-color: bisque;
+}
+
+.sidebar
+{
+    display: inline-block;
+    border: 2px solid violet;
+    margin-bottom: 2%;
+
+}
+
+.intro
+{
+    position: absolute;
+    display: inline-block;
+    border: 2px solid red;
+    margin-top: 2%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 2px;
+    background-color: lightblue;
+}
+
+.index
+{
+    position: relative;
+    border: 2px solid red;
+    display: inline-block;
+    width: 40%;
+    margin-left: 1%;
+    margin-top: 1%;
+    padding: 1%;
+    background-color: lightgray;
+    
+}
+
+
+footer
+{
+    border: 2px solid green;
+    margin: 1%;
+    background-color: cadetblue;
+}
+
+strong
+{
+    font-size: 2vw;
+    border: 2px solid orange;
+    box-align: center;
+}

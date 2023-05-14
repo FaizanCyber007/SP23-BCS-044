@@ -62,20 +62,21 @@ ul
     margin-top: 2%;
     margin-left: 1%;
     margin-right: 1%;
-    margin-bottom: 2px;
+    /* margin-bottom: 2px; */
     background-color: lightblue;
 }
 
 .index
 {
-    position: relative;
+    /* position: relative; */
     border: 2px solid red;
     display: inline-block;
-    width: 40%;
+    width: 50%;
     margin-left: 1%;
-    margin-top: 1%;
+    /* margin-top: 1%; */
     padding: 1%;
     background-color: lightgray;
+    /* clear: left; */
     
 }
 
